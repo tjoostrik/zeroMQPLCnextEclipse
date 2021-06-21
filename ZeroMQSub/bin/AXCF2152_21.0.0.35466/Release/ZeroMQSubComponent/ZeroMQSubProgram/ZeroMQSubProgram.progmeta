@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MetaConfigurationDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" schemaVersion="2.0" xmlns="http://www.phoenixcontact.com/schema/metaconfig">
+  <Program type="ZeroMQSubProgram">
+    <Ports>
+      <Port name="output0" type="boolean" attributes="Output" dimensions="" />
+      <Port name="output1" type="boolean" attributes="Output" dimensions="" />
+      <Port name="output2" type="boolean" attributes="Output" dimensions="" />
+      <Port name="output3" type="boolean" attributes="Output" dimensions="" />
+      <Port name="output4" type="boolean" attributes="Output" dimensions="" />
+      <Port name="output5" type="boolean" attributes="Output" dimensions="" />
+      <Port name="output6" type="boolean" attributes="Output" dimensions="" />
+      <Port name="output7" type="boolean" attributes="Output" dimensions="" />
+      <Port name="startProgram1" type="boolean" attributes="Output" dimensions="" />
+      <Port name="input7" type="boolean" attributes="Input" dimensions="" />
+      <Port name="busyProgram" type="boolean" attributes="Input" dimensions="" />
+      <Port name="text" type="StaticString" attributes="Output" dimensions="" />
+    </Ports>
+  </Program>
+</MetaConfigurationDocument>
